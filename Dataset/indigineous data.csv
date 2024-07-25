@@ -1,0 +1,990 @@
+Indigenous,Education,Weekly Hours,Weekly Wage,Total Employees,Gender,Age Group
+Yes,High School,35,500,50,Male,25-34
+Yes,Bachelor's,40,800,60,Female,35-44
+No,Master's,45,1200,45,Male,45-54
+No,High School,30,400,55,Female,25-34
+Yes,Associate's,38,700,70,Male,55-64
+No,Doctorate,50,1500,40,Female,35-44
+Yes,High School,32,600,65,Male,25-34
+No,Bachelor's,42,900,50,Female,45-54
+Yes,High School,35,500,75,Male,25-34
+No,Master's,40,1000,60,Female,35-44
+Yes,High School,37,2136,243,Male,25-35
+Yes,Bachelor's,45,1447,456,Female,35-45
+No,Master's,33,1079,284,Male,45-55
+No,High School,43,2088,206,Female,25-35
+Yes,Associate's,31,1110,270,Male,55-65
+No,Doctorate,45,799,410,Female,35-45
+Yes,High School,34,1228,103,Male,25-35
+No,Bachelor's,41,499,338,Female,45-55
+Yes,High School,30,1679,419,Male,25-35
+No,Master's,31,1714,492,Female,35-45
+No,High School,47,1829,124,Male,25-36
+Yes,Bachelor's,36,1179,487,Female,35-46
+No,Master's,25,1885,405,Male,45-56
+No,High School,47,2190,272,Female,25-36
+No,Associate's,45,1561,303,Male,55-66
+No,Doctorate,44,1287,101,Female,35-46
+Yes,High School,30,2307,106,Male,25-36
+No,Bachelor's,41,636,259,Female,45-56
+No,High School,30,255,272,Male,25-36
+No,Master's,32,693,414,Female,35-46
+No,High School,41,1895,214,Male,25-37
+Yes,Bachelor's,27,1412,326,Female,35-47
+No,Master's,31,2046,133,Male,45-57
+No,High School,30,328,23,Female,25-37
+Yes,Associate's,38,2427,304,Male,55-67
+No,Doctorate,50,2131,340,Female,35-47
+Yes,High School,29,1594,120,Male,25-37
+No,Bachelor's,42,280,265,Female,45-57
+No,High School,37,1667,309,Male,25-37
+No,Master's,33,859,494,Female,35-47
+Yes,High School,45,2482,372,Male,25-38
+Yes,Bachelor's,31,599,308,Female,35-48
+No,Master's,41,854,390,Male,45-58
+No,High School,33,591,193,Female,25-38
+Yes,Associate's,42,2291,146,Male,55-68
+No,Doctorate,42,1127,298,Female,35-48
+No,High School,42,1110,195,Male,25-38
+No,Bachelor's,32,2144,172,Female,45-58
+No,High School,27,1683,133,Male,25-38
+No,Master's,32,1813,192,Female,35-48
+Yes,High School,30,2283,385,Male,25-39
+No,Bachelor's,33,1370,114,Female,35-49
+No,Master's,44,1555,249,Male,45-59
+No,High School,34,413,348,Female,25-39
+No,Associate's,34,506,272,Male,55-69
+No,Doctorate,47,1845,149,Female,35-49
+No,High School,31,1296,239,Male,25-39
+No,Bachelor's,43,1626,216,Female,45-59
+Yes,High School,25,385,380,Male,25-39
+No,Master's,30,1785,44,Female,35-49
+Yes,High School,25,1997,424,Male,25-40
+No,Bachelor's,45,940,56,Female,35-50
+No,Master's,34,1826,470,Male,45-60
+No,High School,43,2115,398,Female,25-40
+Yes,Associate's,38,2495,93,Male,55-70
+No,Doctorate,34,1056,170,Female,35-50
+Yes,High School,29,533,186,Male,25-40
+No,Bachelor's,43,1588,146,Female,45-60
+Yes,High School,35,1555,156,Male,25-40
+No,Master's,44,2272,195,Female,35-50
+Yes,High School,29,647,308,Male,25-41
+Yes,Bachelor's,49,1650,161,Female,35-51
+No,Master's,42,1949,131,Male,45-61
+No,High School,26,1808,269,Female,25-41
+Yes,Associate's,31,1877,116,Male,55-71
+No,Doctorate,38,1021,329,Female,35-51
+Yes,High School,30,1896,364,Male,25-41
+No,Bachelor's,32,1175,116,Female,45-61
+Yes,High School,49,1508,313,Male,25-41
+No,Master's,38,485,304,Female,35-51
+Yes,High School,48,1223,240,Male,25-42
+Yes,Bachelor's,28,463,456,Female,35-52
+No,Master's,45,853,288,Male,45-62
+No,High School,41,573,104,Female,25-42
+Yes,Associate's,48,1809,166,Male,55-72
+No,Doctorate,34,1943,443,Female,35-52
+No,High School,39,2053,54,Male,25-42
+No,Bachelor's,46,2380,426,Female,45-62
+Yes,High School,33,2473,323,Male,25-42
+No,Master's,43,767,413,Female,35-52
+No,High School,45,1020,210,Male,25-43
+Yes,Bachelor's,41,2000,326,Female,35-53
+No,Master's,48,2488,203,Male,45-63
+No,High School,29,1513,435,Female,25-43
+No,Associate's,28,1685,430,Male,55-73
+No,Doctorate,44,2086,326,Female,35-53
+Yes,High School,35,1615,116,Male,25-43
+No,Bachelor's,42,1759,110,Female,45-63
+Yes,High School,30,1326,344,Male,25-43
+No,Master's,43,503,483,Female,35-53
+Yes,High School,40,1715,239,Male,25-44
+Yes,Bachelor's,32,1686,490,Female,35-54
+No,Master's,46,526,441,Male,45-64
+No,High School,34,1268,202,Female,25-44
+Yes,Associate's,33,969,288,Male,55-74
+No,Doctorate,45,1987,122,Female,35-54
+Yes,High School,44,277,57,Male,25-44
+No,Bachelor's,29,1439,249,Female,45-64
+Yes,High School,26,2278,456,Male,25-44
+No,Master's,26,1344,280,Female,35-54
+Yes,High School,47,516,360,Male,25-45
+Yes,Bachelor's,25,714,182,Female,35-55
+No,Master's,38,2277,336,Male,45-65
+No,High School,30,620,124,Female,25-45
+No,Associate's,41,845,112,Male,55-75
+No,Doctorate,30,2292,264,Female,35-55
+No,High School,33,2488,447,Male,25-45
+No,Bachelor's,50,1777,489,Female,45-65
+Yes,High School,36,2199,306,Male,25-45
+No,Master's,36,2216,100,Female,35-55
+Yes,High School,45,381,479,Male,25-46
+No,Bachelor's,33,2264,206,Female,35-56
+No,Master's,33,2392,88,Male,45-66
+No,High School,45,603,127,Female,25-46
+No,Associate's,35,1575,149,Male,55-76
+No,Doctorate,30,1144,278,Female,35-56
+Yes,High School,43,2131,21,Male,25-46
+No,Bachelor's,28,469,262,Female,45-66
+Yes,High School,45,2049,139,Male,25-46
+No,Master's,47,442,482,Female,35-56
+Yes,High School,47,1835,381,Male,25-47
+Yes,Bachelor's,49,2479,41,Female,35-57
+No,Master's,39,1515,248,Male,45-67
+No,High School,33,1104,169,Female,25-47
+Yes,Associate's,29,1718,31,Male,55-77
+No,Doctorate,33,962,494,Female,35-57
+No,High School,37,1211,67,Male,25-47
+No,Bachelor's,25,2294,338,Female,45-67
+Yes,High School,40,1847,78,Male,25-47
+No,Master's,44,1491,363,Female,35-57
+Yes,High School,46,984,444,Male,25-48
+No,Bachelor's,41,1061,416,Female,35-58
+No,Master's,31,1434,85,Male,45-68
+No,High School,37,1486,25,Female,25-48
+No,Associate's,28,1643,87,Male,55-78
+No,Doctorate,45,2220,108,Female,35-58
+Yes,High School,33,2123,210,Male,25-48
+No,Bachelor's,46,723,435,Female,45-68
+Yes,High School,29,1452,164,Male,25-48
+No,Master's,41,738,492,Female,35-58
+No,High School,42,1857,441,Male,25-49
+No,Bachelor's,38,2164,443,Female,35-59
+No,Master's,41,604,128,Male,45-69
+No,High School,29,2078,135,Female,25-49
+No,Associate's,25,2266,343,Male,55-79
+No,Doctorate,47,565,346,Female,35-59
+No,High School,35,908,352,Male,25-49
+No,Bachelor's,29,1895,319,Female,45-69
+Yes,High School,36,2117,243,Male,25-49
+No,Master's,46,1371,440,Female,35-59
+No,High School,36,1919,349,Male,25-50
+No,Bachelor's,34,2053,284,Female,35-60
+No,Master's,28,2032,64,Male,45-70
+No,High School,25,271,419,Female,25-50
+Yes,Associate's,32,1379,487,Male,55-80
+No,Doctorate,27,1399,305,Female,35-60
+Yes,High School,50,270,300,Male,25-50
+No,Bachelor's,36,1591,99,Female,45-70
+Yes,High School,30,1697,484,Male,25-50
+No,Master's,37,1244,339,Female,35-60
+Yes,High School,35,2173,172,Male,25-51
+No,Bachelor's,43,2006,153,Female,35-61
+No,Master's,45,2258,373,Male,45-71
+No,High School,42,1948,226,Female,25-51
+Yes,Associate's,50,1965,254,Male,55-81
+No,Doctorate,32,2338,35,Female,35-61
+Yes,High School,46,704,492,Male,25-51
+No,Bachelor's,30,1859,273,Female,45-71
+Yes,High School,48,301,173,Male,25-51
+No,Master's,28,1353,108,Female,35-61
+Yes,High School,27,2358,321,Male,25-52
+No,Bachelor's,25,2380,281,Female,35-62
+No,Master's,45,1042,297,Male,45-72
+No,High School,45,2162,234,Female,25-52
+Yes,Associate's,35,334,142,Male,55-82
+No,Doctorate,49,656,414,Female,35-62
+Yes,High School,27,815,417,Male,25-52
+No,Bachelor's,39,1015,134,Female,45-72
+Yes,High School,31,913,306,Male,25-52
+No,Master's,39,1425,166,Female,35-62
+Yes,High School,35,1587,131,Male,25-53
+Yes,Bachelor's,33,807,248,Female,35-63
+No,Master's,39,2444,32,Male,45-73
+No,High School,26,612,397,Female,25-53
+Yes,Associate's,48,921,252,Male,55-83
+No,Doctorate,29,905,87,Female,35-63
+No,High School,39,1270,86,Male,25-53
+No,Bachelor's,44,2308,273,Female,45-73
+Yes,High School,44,2290,199,Male,25-53
+No,Master's,49,1619,46,Female,35-63
+No,High School,45,897,336,Male,25-54
+Yes,Bachelor's,39,1844,500,Female,35-64
+No,Master's,37,2158,419,Male,45-74
+No,High School,39,1814,108,Female,25-54
+Yes,Associate's,42,944,148,Male,55-84
+No,Doctorate,26,1495,352,Female,35-64
+Yes,High School,43,671,87,Male,25-54
+No,Bachelor's,47,1013,168,Female,45-74
+Yes,High School,44,1712,275,Male,25-54
+No,Master's,32,1043,36,Female,35-64
+No,High School,39,1176,431,Male,25-55
+Yes,Bachelor's,48,876,365,Female,35-65
+No,Master's,48,1263,327,Male,45-75
+No,High School,49,1682,404,Female,25-55
+Yes,Associate's,41,415,313,Male,55-85
+No,Doctorate,37,2368,469,Female,35-65
+Yes,High School,27,2288,155,Male,25-55
+No,Bachelor's,37,474,256,Female,45-75
+No,High School,48,712,91,Male,25-55
+No,Master's,36,1710,234,Female,35-65
+Yes,High School,43,944,159,Male,25-56
+No,Bachelor's,49,254,69,Female,35-66
+No,Master's,35,799,239,Male,45-76
+No,High School,31,1936,150,Female,25-56
+Yes,Associate's,37,766,223,Male,55-86
+No,Doctorate,39,2435,209,Female,35-66
+Yes,High School,31,1486,85,Male,25-56
+No,Bachelor's,43,2259,244,Female,45-76
+Yes,High School,43,1349,401,Male,25-56
+No,Master's,31,512,476,Female,35-66
+Yes,High School,32,1089,376,Male,25-57
+Yes,Bachelor's,33,2109,153,Female,35-67
+No,Master's,50,1085,337,Male,45-77
+No,High School,38,1797,321,Female,25-57
+No,Associate's,32,681,391,Male,55-87
+No,Doctorate,41,458,313,Female,35-67
+Yes,High School,27,1744,206,Male,25-57
+No,Bachelor's,40,1966,368,Female,45-77
+No,High School,42,976,326,Male,25-57
+No,Master's,31,1019,345,Female,35-67
+Yes,High School,50,1933,447,Male,25-58
+Yes,Bachelor's,46,2383,354,Female,35-68
+No,Master's,37,2105,409,Male,45-78
+No,High School,40,424,253,Female,25-58
+Yes,Associate's,35,1832,337,Male,55-88
+No,Doctorate,43,1776,254,Female,35-68
+Yes,High School,40,1353,80,Male,25-58
+No,Bachelor's,33,313,101,Female,45-78
+Yes,High School,25,1719,284,Male,25-58
+No,Master's,40,1039,186,Female,35-68
+Yes,High School,43,2296,88,Male,25-59
+Yes,Bachelor's,42,2209,367,Female,35-69
+No,Master's,37,943,213,Male,45-79
+No,High School,48,2279,129,Female,25-59
+No,Associate's,28,1206,374,Male,55-89
+No,Doctorate,36,1296,488,Female,35-69
+Yes,High School,25,2125,303,Male,25-59
+No,Bachelor's,43,1072,359,Female,45-79
+Yes,High School,37,2084,281,Male,25-59
+No,Master's,41,506,55,Female,35-69
+Yes,High School,26,2348,110,Male,25-60
+Yes,Bachelor's,28,1298,384,Female,35-70
+No,Master's,37,2075,427,Male,45-80
+No,High School,48,1437,353,Female,25-60
+No,Associate's,34,2187,144,Male,55-90
+No,Doctorate,40,2206,286,Female,35-70
+Yes,High School,29,287,427,Male,25-60
+No,Bachelor's,44,1924,183,Female,45-80
+Yes,High School,45,1232,351,Male,25-60
+No,Master's,32,2234,212,Female,35-70
+Yes,High School,45,1263,37,Male,25-61
+No,Bachelor's,26,1520,432,Female,35-71
+No,Master's,36,1608,495,Male,45-81
+No,High School,25,1659,67,Female,25-61
+Yes,Associate's,39,1246,101,Male,55-91
+No,Doctorate,35,1447,282,Female,35-71
+Yes,High School,39,2267,483,Male,25-61
+No,Bachelor's,36,2121,94,Female,45-81
+Yes,High School,39,1725,493,Male,25-61
+No,Master's,35,1766,138,Female,35-71
+No,High School,40,1690,185,Male,25-62
+No,Bachelor's,26,1525,469,Female,35-72
+No,Master's,30,2376,87,Male,45-82
+No,High School,34,1544,427,Female,25-62
+No,Associate's,32,336,463,Male,55-92
+No,Doctorate,38,1584,491,Female,35-72
+Yes,High School,50,1568,331,Male,25-62
+No,Bachelor's,26,594,375,Female,45-82
+Yes,High School,49,526,350,Male,25-62
+No,Master's,32,302,347,Female,35-72
+Yes,High School,47,716,171,Male,25-63
+Yes,Bachelor's,50,2102,290,Female,35-73
+No,Master's,28,1955,255,Male,45-83
+No,High School,47,966,375,Female,25-63
+No,Associate's,50,2198,444,Male,55-93
+No,Doctorate,44,2353,126,Female,35-73
+Yes,High School,43,1822,238,Male,25-63
+No,Bachelor's,36,435,315,Female,45-83
+Yes,High School,33,876,305,Male,25-63
+No,Master's,41,2182,189,Female,35-73
+No,High School,34,415,29,Male,25-64
+No,Bachelor's,25,258,118,Female,35-74
+No,Master's,39,336,98,Male,45-84
+No,High School,49,2031,336,Female,25-64
+Yes,Associate's,26,1788,442,Male,55-94
+No,Doctorate,37,294,39,Female,35-74
+No,High School,44,647,299,Male,25-64
+No,Bachelor's,28,2028,428,Female,45-84
+Yes,High School,45,1601,197,Male,25-64
+No,Master's,50,467,474,Female,35-74
+Yes,High School,44,1700,121,Male,25-65
+Yes,Bachelor's,48,2409,156,Female,35-75
+No,Master's,32,330,432,Male,45-85
+No,High School,45,1929,50,Female,25-65
+No,Associate's,42,1003,454,Male,55-95
+No,Doctorate,39,2407,278,Female,35-75
+Yes,High School,32,771,235,Male,25-65
+No,Bachelor's,39,2134,32,Female,45-85
+No,High School,45,802,308,Male,25-65
+No,Master's,35,1726,251,Female,35-75
+Yes,High School,38,1936,219,Male,25-66
+Yes,Bachelor's,50,857,86,Female,35-76
+No,Master's,32,1963,142,Male,45-86
+No,High School,42,478,302,Female,25-66
+Yes,Associate's,48,2242,195,Male,55-96
+No,Doctorate,50,597,346,Female,35-76
+No,High School,40,1059,276,Male,25-66
+No,Bachelor's,35,895,449,Female,45-86
+No,High School,30,1459,346,Male,25-66
+No,Master's,25,706,336,Female,35-76
+Yes,High School,29,2331,197,Male,25-67
+Yes,Bachelor's,39,818,110,Female,35-77
+No,Master's,29,1624,165,Male,45-87
+No,High School,29,397,452,Female,25-67
+Yes,Associate's,29,2341,439,Male,55-97
+No,Doctorate,30,554,92,Female,35-77
+Yes,High School,44,1877,388,Male,25-67
+No,Bachelor's,38,2331,225,Female,45-87
+Yes,High School,37,2158,63,Male,25-67
+No,Master's,39,436,168,Female,35-77
+Yes,High School,44,264,281,Male,25-68
+Yes,Bachelor's,31,266,369,Female,35-78
+No,Master's,29,1443,366,Male,45-88
+No,High School,26,2089,419,Female,25-68
+Yes,Associate's,47,1356,455,Male,55-98
+No,Doctorate,26,2010,109,Female,35-78
+Yes,High School,44,300,65,Male,25-68
+No,Bachelor's,43,2294,412,Female,45-88
+Yes,High School,44,456,177,Male,25-68
+No,Master's,44,716,252,Female,35-78
+Yes,High School,27,624,24,Male,25-69
+No,Bachelor's,49,2397,237,Female,35-79
+No,Master's,44,1419,428,Male,45-89
+No,High School,50,2343,25,Female,25-69
+Yes,Associate's,50,2450,191,Male,55-99
+No,Doctorate,27,2323,348,Female,35-79
+No,High School,44,1990,29,Male,25-69
+No,Bachelor's,25,809,304,Female,45-89
+Yes,High School,26,1199,173,Male,25-69
+No,Master's,40,2223,83,Female,35-79
+No,High School,26,1941,236,Male,25-70
+No,Bachelor's,42,1036,457,Female,35-80
+No,Master's,49,1361,317,Male,45-90
+No,High School,39,297,302,Female,25-70
+No,Associate's,48,1044,138,Male,55-100
+No,Doctorate,36,1908,323,Female,35-80
+No,High School,36,2437,322,Male,25-70
+No,Bachelor's,44,1793,301,Female,45-90
+Yes,High School,43,962,73,Male,25-70
+No,Master's,26,1492,177,Female,35-80
+Yes,High School,41,297,113,Male,25-71
+Yes,Bachelor's,41,2071,488,Female,35-81
+No,Master's,28,1151,346,Male,45-91
+No,High School,26,755,277,Female,25-71
+Yes,Associate's,36,1885,116,Male,55-101
+No,Doctorate,39,658,230,Female,35-81
+Yes,High School,33,590,390,Male,25-71
+No,Bachelor's,31,324,214,Female,45-91
+No,High School,46,2266,288,Male,25-71
+No,Master's,43,1428,34,Female,35-81
+Yes,High School,42,551,361,Male,25-72
+No,Bachelor's,44,1280,406,Female,35-82
+No,Master's,42,425,217,Male,45-92
+No,High School,50,1330,230,Female,25-72
+Yes,Associate's,48,2028,225,Male,55-102
+No,Doctorate,50,922,450,Female,35-82
+No,High School,34,2320,256,Male,25-72
+No,Bachelor's,42,588,228,Female,45-92
+No,High School,33,1228,154,Male,25-72
+No,Master's,44,298,93,Female,35-82
+No,High School,50,1233,219,Male,25-73
+No,Bachelor's,26,1811,200,Female,35-83
+No,Master's,32,2045,52,Male,45-93
+No,High School,50,610,338,Female,25-73
+No,Associate's,29,1493,201,Male,55-103
+No,Doctorate,38,1277,444,Female,35-83
+Yes,High School,31,299,178,Male,25-73
+No,Bachelor's,31,1022,168,Female,45-93
+No,High School,38,2343,193,Male,25-73
+No,Master's,25,1760,296,Female,35-83
+Yes,High School,37,779,240,Male,25-74
+Yes,Bachelor's,42,1163,438,Female,35-84
+No,Master's,47,2015,322,Male,45-94
+No,High School,42,2200,32,Female,25-74
+Yes,Associate's,33,815,485,Male,55-104
+No,Doctorate,44,2015,465,Female,35-84
+Yes,High School,28,1732,152,Male,25-74
+No,Bachelor's,39,815,172,Female,45-94
+No,High School,29,2345,347,Male,25-74
+No,Master's,47,538,487,Female,35-84
+Yes,High School,31,1556,202,Male,25-75
+Yes,Bachelor's,39,1042,359,Female,35-85
+No,Master's,26,866,464,Male,45-95
+No,High School,33,674,243,Female,25-75
+No,Associate's,49,1393,211,Male,55-105
+No,Doctorate,40,2239,333,Female,35-85
+No,High School,46,1186,276,Male,25-75
+No,Bachelor's,49,342,361,Female,45-95
+Yes,High School,39,2132,468,Male,25-75
+No,Master's,32,959,176,Female,35-85
+No,High School,48,611,384,Male,25-76
+Yes,Bachelor's,49,2120,370,Female,35-86
+No,Master's,29,2212,398,Male,45-96
+No,High School,31,515,240,Female,25-76
+Yes,Associate's,30,261,44,Male,55-106
+No,Doctorate,40,717,132,Female,35-86
+Yes,High School,48,1670,102,Male,25-76
+No,Bachelor's,48,1266,65,Female,45-96
+Yes,High School,45,1351,318,Male,25-76
+No,Master's,47,372,121,Female,35-86
+No,High School,44,837,263,Male,25-77
+No,Bachelor's,36,777,83,Female,35-87
+No,Master's,33,2437,87,Male,45-97
+No,High School,38,1405,47,Female,25-77
+No,Associate's,39,800,349,Male,55-107
+No,Doctorate,40,1401,437,Female,35-87
+No,High School,37,1199,93,Male,25-77
+No,Bachelor's,31,1042,96,Female,45-97
+Yes,High School,38,2130,259,Male,25-77
+No,Master's,50,1029,413,Female,35-87
+Yes,High School,41,1176,457,Male,25-78
+Yes,Bachelor's,38,2304,28,Female,35-88
+No,Master's,50,1860,117,Male,45-98
+No,High School,34,920,227,Female,25-78
+Yes,Associate's,36,1296,153,Male,55-108
+No,Doctorate,27,1089,100,Female,35-88
+Yes,High School,45,1085,312,Male,25-78
+No,Bachelor's,40,2162,388,Female,45-98
+Yes,High School,31,992,458,Male,25-78
+No,Master's,33,291,385,Female,35-88
+No,High School,30,1681,115,Male,25-79
+No,Bachelor's,26,1320,51,Female,35-89
+No,Master's,40,870,94,Male,45-99
+No,High School,47,1448,258,Female,25-79
+Yes,Associate's,47,954,470,Male,55-109
+No,Doctorate,37,815,214,Female,35-89
+Yes,High School,47,1312,51,Male,25-79
+No,Bachelor's,40,973,339,Female,45-99
+No,High School,26,1263,333,Male,25-79
+No,Master's,47,1639,194,Female,35-89
+Yes,High School,41,896,241,Male,25-80
+No,Bachelor's,49,1750,410,Female,35-90
+No,Master's,38,776,208,Male,45-100
+No,High School,47,1500,282,Female,25-80
+Yes,Associate's,28,1362,337,Male,55-110
+No,Doctorate,37,1799,259,Female,35-90
+No,High School,44,700,484,Male,25-80
+No,Bachelor's,45,2374,465,Female,45-100
+No,High School,40,1755,184,Male,25-80
+No,Master's,50,2410,221,Female,35-90
+No,High School,27,2442,382,Male,25-81
+Yes,Bachelor's,31,1847,348,Female,35-91
+No,Master's,49,1905,245,Male,45-101
+No,High School,26,595,245,Female,25-81
+Yes,Associate's,45,749,91,Male,55-111
+No,Doctorate,27,1725,157,Female,35-91
+No,High School,31,874,362,Male,25-81
+No,Bachelor's,34,1402,345,Female,45-101
+No,High School,44,1815,406,Male,25-81
+No,Master's,27,2076,76,Female,35-91
+No,High School,37,2453,72,Male,25-82
+Yes,Bachelor's,28,1461,113,Female,35-92
+No,Master's,35,1911,186,Male,45-102
+No,High School,34,2040,465,Female,25-82
+Yes,Associate's,50,1397,370,Male,55-112
+No,Doctorate,27,1340,41,Female,35-92
+Yes,High School,47,475,360,Male,25-82
+No,Bachelor's,33,583,449,Female,45-102
+Yes,High School,48,1523,206,Male,25-82
+No,Master's,34,811,447,Female,35-92
+Yes,High School,27,1314,149,Male,25-83
+No,Bachelor's,48,2359,161,Female,35-93
+No,Master's,29,1318,344,Male,45-103
+No,High School,41,2258,197,Female,25-83
+Yes,Associate's,38,295,123,Male,55-113
+No,Doctorate,29,944,474,Female,35-93
+Yes,High School,49,1690,421,Male,25-83
+No,Bachelor's,34,2306,143,Female,45-103
+Yes,High School,48,2035,309,Male,25-83
+No,Master's,50,2419,141,Female,35-93
+Yes,High School,43,2394,422,Male,25-84
+Yes,Bachelor's,36,2286,380,Female,35-94
+No,Master's,48,1953,249,Male,45-104
+No,High School,43,419,275,Female,25-84
+Yes,Associate's,25,2294,255,Male,55-114
+No,Doctorate,32,985,217,Female,35-94
+Yes,High School,31,1629,465,Male,25-84
+No,Bachelor's,47,2162,209,Female,45-104
+Yes,High School,25,1151,488,Male,25-84
+No,Master's,47,1391,266,Female,35-94
+Yes,High School,36,1877,45,Male,25-85
+No,Bachelor's,46,1284,118,Female,35-95
+No,Master's,44,2223,484,Male,45-105
+No,High School,25,493,254,Female,25-85
+No,Associate's,31,897,479,Male,55-115
+No,Doctorate,37,1342,27,Female,35-95
+No,High School,36,2229,300,Male,25-85
+No,Bachelor's,28,2437,249,Female,45-105
+Yes,High School,49,645,230,Male,25-85
+No,Master's,31,2352,326,Female,35-95
+Yes,High School,27,1774,57,Male,25-86
+Yes,Bachelor's,27,334,296,Female,35-96
+No,Master's,38,2012,394,Male,45-106
+No,High School,43,1455,131,Female,25-86
+Yes,Associate's,42,444,280,Male,55-116
+No,Doctorate,46,927,116,Female,35-96
+No,High School,37,1080,354,Male,25-86
+No,Bachelor's,29,846,391,Female,45-106
+No,High School,38,2179,483,Male,25-86
+No,Master's,25,1968,149,Female,35-96
+Yes,High School,45,723,298,Male,25-87
+Yes,Bachelor's,44,1517,247,Female,35-97
+No,Master's,48,912,297,Male,45-107
+No,High School,37,1693,214,Female,25-87
+Yes,Associate's,41,593,44,Male,55-117
+No,Doctorate,26,1025,347,Female,35-97
+Yes,High School,43,499,473,Male,25-87
+No,Bachelor's,46,852,230,Female,45-107
+No,High School,28,1364,186,Male,25-87
+No,Master's,46,1180,356,Female,35-97
+No,High School,46,550,183,Male,25-88
+No,Bachelor's,36,398,84,Female,35-98
+No,Master's,34,2039,93,Male,45-108
+No,High School,38,1712,164,Female,25-88
+Yes,Associate's,32,1456,231,Male,55-118
+No,Doctorate,40,923,77,Female,35-98
+No,High School,41,1058,234,Male,25-88
+No,Bachelor's,25,1485,154,Female,45-108
+Yes,High School,47,649,406,Male,25-88
+No,Master's,30,1173,240,Female,35-98
+Yes,High School,26,2169,482,Male,25-89
+Yes,Bachelor's,47,1899,305,Female,35-99
+No,Master's,33,1394,22,Male,45-109
+No,High School,30,2133,291,Female,25-89
+No,Associate's,38,2317,321,Male,55-119
+No,Doctorate,35,747,430,Female,35-99
+No,High School,44,1053,247,Male,25-89
+No,Bachelor's,44,850,473,Female,45-109
+Yes,High School,45,2284,227,Male,25-89
+No,Master's,36,1245,357,Female,35-99
+Yes,High School,31,1201,465,Male,25-90
+Yes,Bachelor's,25,2390,340,Female,35-100
+No,Master's,46,2298,77,Male,45-110
+No,High School,25,789,427,Female,25-90
+Yes,Associate's,45,1503,472,Male,55-120
+No,Doctorate,32,2336,486,Female,35-100
+No,High School,49,378,313,Male,25-90
+No,Bachelor's,40,1276,148,Female,45-110
+No,High School,32,948,453,Male,25-90
+No,Master's,37,2420,327,Female,35-100
+Yes,High School,28,615,226,Male,25-91
+No,Bachelor's,28,337,300,Female,35-101
+No,Master's,33,2071,126,Male,45-111
+No,High School,41,1195,345,Female,25-91
+Yes,Associate's,27,733,103,Male,55-121
+No,Doctorate,25,1672,419,Female,35-101
+Yes,High School,32,924,204,Male,25-91
+No,Bachelor's,50,1138,81,Female,45-111
+Yes,High School,26,1733,273,Male,25-91
+No,Master's,26,660,425,Female,35-101
+Yes,High School,34,2349,250,Male,25-92
+Yes,Bachelor's,50,1742,25,Female,35-102
+No,Master's,33,893,450,Male,45-112
+No,High School,31,1972,51,Female,25-92
+Yes,Associate's,25,910,46,Male,55-122
+No,Doctorate,27,2466,274,Female,35-102
+Yes,High School,42,288,38,Male,25-92
+No,Bachelor's,32,513,443,Female,45-112
+No,High School,27,1090,42,Male,25-92
+No,Master's,30,1858,165,Female,35-102
+No,High School,47,1944,324,Male,25-93
+Yes,Bachelor's,50,667,342,Female,35-103
+No,Master's,38,865,32,Male,45-113
+No,High School,41,1906,447,Female,25-93
+Yes,Associate's,42,1647,313,Male,55-123
+No,Doctorate,31,961,259,Female,35-103
+No,High School,43,1127,64,Male,25-93
+No,Bachelor's,27,2237,360,Female,45-113
+No,High School,28,2010,444,Male,25-93
+No,Master's,32,474,184,Female,35-103
+Yes,High School,29,462,31,Male,25-94
+Yes,Bachelor's,29,1194,493,Female,35-104
+No,Master's,30,958,341,Male,45-114
+No,High School,44,707,391,Female,25-94
+No,Associate's,29,501,499,Male,55-124
+No,Doctorate,29,1263,262,Female,35-104
+No,High School,38,1457,318,Male,25-94
+No,Bachelor's,37,2485,170,Female,45-114
+No,High School,27,1736,223,Male,25-94
+No,Master's,27,1724,72,Female,35-104
+No,High School,38,352,486,Male,25-95
+Yes,Bachelor's,31,2328,500,Female,35-105
+No,Master's,44,697,283,Male,45-115
+No,High School,29,1438,396,Female,25-95
+No,Associate's,26,1034,204,Male,55-125
+No,Doctorate,45,1529,160,Female,35-105
+No,High School,29,1423,280,Male,25-95
+No,Bachelor's,37,2298,96,Female,45-115
+Yes,High School,46,1602,37,Male,25-95
+No,Master's,28,527,444,Female,35-105
+Yes,High School,46,460,53,Male,25-96
+Yes,Bachelor's,40,1769,211,Female,35-106
+No,Master's,47,1562,294,Male,45-116
+No,High School,38,1395,445,Female,25-96
+Yes,Associate's,29,494,127,Male,55-126
+No,Doctorate,33,284,284,Female,35-106
+Yes,High School,49,578,489,Male,25-96
+No,Bachelor's,34,1496,244,Female,45-116
+No,High School,29,1069,480,Male,25-96
+No,Master's,44,2461,476,Female,35-106
+Yes,High School,31,2068,265,Male,25-97
+No,Bachelor's,40,1135,496,Female,35-107
+No,Master's,49,1297,123,Male,45-117
+No,High School,40,1863,279,Female,25-97
+Yes,Associate's,45,1273,182,Male,55-127
+No,Doctorate,38,315,219,Female,35-107
+Yes,High School,50,648,364,Male,25-97
+No,Bachelor's,29,1810,434,Female,45-117
+Yes,High School,26,1456,23,Male,25-97
+No,Master's,44,2172,294,Female,35-107
+No,High School,28,2328,443,Male,25-98
+No,Bachelor's,42,584,89,Female,35-108
+No,Master's,29,655,146,Male,45-118
+No,High School,35,523,85,Female,25-98
+No,Associate's,27,2249,292,Male,55-128
+No,Doctorate,37,1734,438,Female,35-108
+Yes,High School,31,1955,244,Male,25-98
+No,Bachelor's,37,2081,62,Female,45-118
+Yes,High School,29,1939,395,Male,25-98
+No,Master's,30,1125,152,Female,35-108
+No,High School,44,2244,187,Male,25-99
+No,Bachelor's,37,1580,59,Female,35-109
+No,Master's,40,2099,114,Male,45-119
+No,High School,38,2298,388,Female,25-99
+Yes,Associate's,42,388,350,Male,55-129
+No,Doctorate,36,2012,329,Female,35-109
+Yes,High School,43,1376,480,Male,25-99
+No,Bachelor's,33,2082,421,Female,45-119
+Yes,High School,44,469,75,Male,25-99
+No,Master's,40,2475,57,Female,35-109
+Yes,High School,49,518,374,Male,25-100
+Yes,Bachelor's,30,1268,57,Female,35-110
+No,Master's,50,1769,377,Male,45-120
+No,High School,35,2058,174,Female,25-100
+Yes,Associate's,42,1976,328,Male,55-130
+No,Doctorate,45,348,159,Female,35-110
+Yes,High School,27,780,450,Male,25-100
+No,Bachelor's,47,2221,485,Female,45-120
+Yes,High School,38,488,202,Male,25-100
+No,Master's,46,297,26,Female,35-110
+Yes,High School,38,2063,187,Male,25-101
+No,Bachelor's,42,1766,393,Female,35-111
+No,Master's,48,370,39,Male,45-121
+No,High School,38,419,466,Female,25-101
+Yes,Associate's,27,339,191,Male,55-131
+No,Doctorate,39,1657,287,Female,35-111
+No,High School,48,1396,327,Male,25-101
+No,Bachelor's,28,1473,447,Female,45-121
+Yes,High School,37,403,301,Male,25-101
+No,Master's,28,2024,345,Female,35-111
+Yes,High School,35,1771,328,Male,25-102
+No,Bachelor's,39,397,346,Female,35-112
+No,Master's,32,1601,41,Male,45-122
+No,High School,30,2427,207,Female,25-102
+Yes,Associate's,32,352,299,Male,55-132
+No,Doctorate,33,1668,81,Female,35-112
+Yes,High School,48,268,475,Male,25-102
+No,Bachelor's,47,1461,138,Female,45-122
+Yes,High School,28,2117,180,Male,25-102
+No,Master's,49,1009,180,Female,35-112
+No,High School,47,1125,41,Male,25-103
+No,Bachelor's,26,295,187,Female,35-113
+No,Master's,25,467,155,Male,45-123
+No,High School,28,323,59,Female,25-103
+Yes,Associate's,27,302,368,Male,55-133
+No,Doctorate,42,610,291,Female,35-113
+Yes,High School,32,870,144,Male,25-103
+No,Bachelor's,25,1845,209,Female,45-123
+No,High School,29,1278,487,Male,25-103
+No,Master's,36,1533,320,Female,35-113
+Yes,High School,35,910,259,Male,25-104
+Yes,Bachelor's,29,1320,180,Female,35-114
+No,Master's,25,1897,422,Male,45-124
+No,High School,50,1026,447,Female,25-104
+Yes,Associate's,30,1142,232,Male,55-134
+No,Doctorate,44,634,150,Female,35-114
+Yes,High School,42,2202,253,Male,25-104
+No,Bachelor's,48,2158,224,Female,45-124
+Yes,High School,40,1189,181,Male,25-104
+No,Master's,40,2230,430,Female,35-114
+Yes,High School,49,2391,33,Male,25-105
+No,Bachelor's,37,943,131,Female,35-115
+No,Master's,48,1206,183,Male,45-125
+No,High School,33,2031,330,Female,25-105
+Yes,Associate's,45,1238,180,Male,55-135
+No,Doctorate,39,1907,323,Female,35-115
+No,High School,47,1781,391,Male,25-105
+No,Bachelor's,38,2070,139,Female,45-125
+Yes,High School,27,1242,419,Male,25-105
+No,Master's,31,2374,95,Female,35-115
+No,High School,34,1607,143,Male,25-106
+Yes,Bachelor's,43,962,147,Female,35-116
+No,Master's,30,1688,363,Male,45-126
+No,High School,32,1081,57,Female,25-106
+Yes,Associate's,37,1989,430,Male,55-136
+No,Doctorate,27,1507,55,Female,35-116
+No,High School,42,1939,255,Male,25-106
+No,Bachelor's,46,2429,393,Female,45-126
+No,High School,30,543,494,Male,25-106
+No,Master's,46,265,497,Female,35-116
+No,High School,42,560,402,Male,25-107
+Yes,Bachelor's,49,1357,333,Female,35-117
+No,Master's,48,2394,164,Male,45-127
+No,High School,31,2366,333,Female,25-107
+Yes,Associate's,40,1018,400,Male,55-137
+No,Doctorate,30,627,184,Female,35-117
+No,High School,50,778,126,Male,25-107
+No,Bachelor's,25,538,211,Female,45-127
+Yes,High School,25,872,253,Male,25-107
+No,Master's,28,1566,404,Female,35-117
+Yes,High School,48,1107,241,Male,25-108
+Yes,Bachelor's,39,1348,284,Female,35-118
+No,Master's,30,1626,384,Male,45-128
+No,High School,47,253,145,Female,25-108
+Yes,Associate's,27,812,343,Male,55-138
+No,Doctorate,50,1441,329,Female,35-118
+Yes,High School,29,800,449,Male,25-108
+No,Bachelor's,40,552,87,Female,45-128
+Yes,High School,31,261,493,Male,25-108
+No,Master's,45,348,103,Female,35-118
+No,High School,35,1076,245,Male,25-109
+No,Bachelor's,39,1502,333,Female,35-119
+No,Master's,44,1572,311,Male,45-129
+No,High School,35,2083,144,Female,25-109
+No,Associate's,38,250,350,Male,55-139
+No,Doctorate,31,409,177,Female,35-119
+Yes,High School,41,2214,319,Male,25-109
+No,Bachelor's,40,1287,462,Female,45-129
+Yes,High School,31,2418,293,Male,25-109
+No,Master's,30,1338,229,Female,35-119
+No,High School,32,1910,135,Male,25-110
+No,Bachelor's,47,478,471,Female,35-120
+No,Master's,38,2030,39,Male,45-130
+No,High School,35,1092,427,Female,25-110
+Yes,Associate's,26,2189,89,Male,55-140
+No,Doctorate,39,1746,469,Female,35-120
+No,High School,46,294,304,Male,25-110
+No,Bachelor's,27,1295,474,Female,45-130
+Yes,High School,48,721,286,Male,25-110
+No,Master's,45,2258,52,Female,35-120
+Yes,High School,45,788,296,Male,25-111
+Yes,Bachelor's,40,1138,120,Female,35-121
+No,Master's,46,561,27,Male,45-131
+No,High School,30,2254,370,Female,25-111
+No,Associate's,47,269,300,Male,55-141
+No,Doctorate,39,605,46,Female,35-121
+Yes,High School,49,2343,456,Male,25-111
+No,Bachelor's,31,1880,243,Female,45-131
+Yes,High School,38,1172,150,Male,25-111
+No,Master's,44,379,274,Female,35-121
+Yes,High School,44,2372,381,Male,25-112
+Yes,Bachelor's,44,1224,452,Female,35-122
+No,Master's,25,2412,40,Male,45-132
+No,High School,50,313,186,Female,25-112
+Yes,Associate's,44,2211,376,Male,55-142
+No,Doctorate,27,799,228,Female,35-122
+No,High School,36,2216,320,Male,25-112
+No,Bachelor's,39,1607,62,Female,45-132
+No,High School,41,2287,69,Male,25-112
+No,Master's,32,1032,192,Female,35-122
+Yes,High School,38,396,60,Male,25-113
+Yes,Bachelor's,45,790,50,Female,35-123
+No,Master's,31,352,346,Male,45-133
+No,High School,47,769,83,Female,25-113
+Yes,Associate's,38,838,353,Male,55-143
+No,Doctorate,49,563,256,Female,35-123
+Yes,High School,46,1912,142,Male,25-113
+No,Bachelor's,34,1280,32,Female,45-133
+No,High School,44,911,494,Male,25-113
+No,Master's,38,2237,473,Female,35-123
+Yes,High School,49,1318,185,Male,25-114
+No,Bachelor's,32,1408,411,Female,35-124
+No,Master's,37,1765,319,Male,45-134
+No,High School,39,1723,28,Female,25-114
+No,Associate's,31,1912,347,Male,55-144
+No,Doctorate,25,2271,207,Female,35-124
+Yes,High School,35,810,300,Male,25-114
+No,Bachelor's,28,1546,128,Female,45-134
+Yes,High School,41,322,433,Male,25-114
+No,Master's,44,2030,26,Female,35-124
+No,High School,34,429,386,Male,25-115
+Yes,Bachelor's,48,2243,184,Female,35-125
+No,Master's,44,1313,65,Male,45-135
+No,High School,38,1405,491,Female,25-115
+Yes,Associate's,42,504,444,Male,55-145
+No,Doctorate,46,745,295,Female,35-125
+Yes,High School,41,2055,416,Male,25-115
+No,Bachelor's,46,1686,387,Female,45-135
+No,High School,37,1116,340,Male,25-115
+No,Master's,47,2500,40,Female,35-125
+Yes,High School,50,2359,418,Male,25-116
+Yes,Bachelor's,36,1394,344,Female,35-126
+No,Master's,34,1786,172,Male,45-136
+No,High School,30,2484,430,Female,25-116
+Yes,Associate's,41,822,369,Male,55-146
+No,Doctorate,37,2361,158,Female,35-126
+Yes,High School,25,1925,410,Male,25-116
+No,Bachelor's,43,1798,489,Female,45-136
+No,High School,46,1418,342,Male,25-116
+No,Master's,38,551,371,Female,35-126
+No,High School,37,2497,435,Male,25-117
+No,Bachelor's,31,1232,382,Female,35-127
+No,Master's,33,985,184,Male,45-137
+No,High School,28,2163,292,Female,25-117
+Yes,Associate's,43,1907,184,Male,55-147
+No,Doctorate,39,357,474,Female,35-127
+No,High School,44,846,34,Male,25-117
+No,Bachelor's,48,1195,181,Female,45-137
+Yes,High School,38,781,308,Male,25-117
+No,Master's,29,664,68,Female,35-127
+No,High School,50,1498,426,Male,25-118
+Yes,Bachelor's,42,1789,302,Female,35-128
+No,Master's,38,870,483,Male,45-138
+No,High School,38,2126,305,Female,25-118
+Yes,Associate's,43,2242,211,Male,55-148
+No,Doctorate,34,647,298,Female,35-128
+No,High School,45,1597,117,Male,25-118
+No,Bachelor's,43,2278,50,Female,45-138
+Yes,High School,50,870,114,Male,25-118
+No,Master's,28,660,184,Female,35-128
+Yes,High School,41,377,222,Male,25-119
+Yes,Bachelor's,33,2177,467,Female,35-129
+No,Master's,30,269,425,Male,45-139
+No,High School,39,2271,223,Female,25-119
+Yes,Associate's,45,735,237,Male,55-149
+No,Doctorate,44,785,193,Female,35-129
+Yes,High School,35,1141,89,Male,25-119
+No,Bachelor's,46,1352,370,Female,45-139
+No,High School,31,2060,64,Male,25-119
+No,Master's,34,1345,412,Female,35-129
+Yes,High School,38,960,372,Male,25-120
+Yes,Bachelor's,25,1000,197,Female,35-130
+No,Master's,32,1255,195,Male,45-140
+No,High School,31,1225,367,Female,25-120
+Yes,Associate's,26,352,493,Male,55-150
+No,Doctorate,48,1208,500,Female,35-130
+Yes,High School,50,1194,282,Male,25-120
+No,Bachelor's,36,438,76,Female,45-140
+No,High School,45,642,266,Male,25-120
+No,Master's,46,1810,479,Female,35-130
+Yes,High School,49,583,238,Male,25-121
+Yes,Bachelor's,44,2177,453,Female,35-131
+No,Master's,31,1565,157,Male,45-141
+No,High School,32,1168,297,Female,25-121
+Yes,Associate's,36,1083,117,Male,55-151
+No,Doctorate,41,1424,29,Female,35-131
+Yes,High School,31,867,245,Male,25-121
+No,Bachelor's,36,1357,95,Female,45-141
+Yes,High School,25,542,481,Male,25-121
+No,Master's,47,773,238,Female,35-131
+No,High School,29,802,449,Male,25-122
+No,Bachelor's,31,944,263,Female,35-132
+No,Master's,41,2476,373,Male,45-142
+No,High School,45,1707,275,Female,25-122
+No,Associate's,47,1417,297,Male,55-152
+No,Doctorate,47,529,49,Female,35-132
+Yes,High School,43,2364,398,Male,25-122
+No,Bachelor's,42,1304,110,Female,45-142
+No,High School,35,704,261,Male,25-122
+No,Master's,31,1394,85,Female,35-132
+Yes,High School,45,820,115,Male,25-123
+No,Bachelor's,33,1812,38,Female,35-133
+No,Master's,30,2391,350,Male,45-143
+No,High School,43,1834,222,Female,25-123
+Yes,Associate's,29,1895,160,Male,55-153
+No,Doctorate,25,1298,252,Female,35-133
+Yes,High School,50,1806,245,Male,25-123
+No,Bachelor's,39,1589,65,Female,45-143
+Yes,High School,43,2049,414,Male,25-123
+No,Master's,50,625,359,Female,35-133
+Yes,High School,46,1686,180,Male,25-124
+Yes,Bachelor's,48,2433,291,Female,35-134
+No,Master's,28,305,322,Male,45-144
+No,High School,45,990,312,Female,25-124
+Yes,Associate's,30,251,485,Male,55-154
+No,Doctorate,33,2213,140,Female,35-134
+No,High School,35,2492,343,Male,25-124
+No,Bachelor's,33,2399,328,Female,45-144
+No,High School,36,1106,52,Male,25-124
+No,Master's,44,1255,296,Female,35-134
+Yes,High School,26,1222,455,Male,25-125
+Yes,Bachelor's,41,1975,117,Female,35-135
+No,Master's,47,893,69,Male,45-145
+No,High School,50,922,452,Female,25-125
+Yes,Associate's,31,827,134,Male,55-155
+No,Doctorate,25,2237,151,Female,35-135
+Yes,High School,36,2031,382,Male,25-125
+No,Bachelor's,35,684,271,Female,45-145
+No,High School,28,1738,332,Male,25-125
+No,Master's,26,1757,238,Female,35-135
+Yes,High School,47,1366,168,Male,25-126
+Yes,Bachelor's,45,525,340,Female,35-136
+No,Master's,36,1144,210,Male,45-146
+No,High School,44,2397,336,Female,25-126
+Yes,Associate's,36,1141,171,Male,55-156
+No,Doctorate,28,2158,149,Female,35-136
+Yes,High School,31,283,38,Male,25-126
+No,Bachelor's,35,394,271,Female,45-146
+No,High School,49,1653,193,Male,25-126
+No,Master's,50,712,176,Female,35-136
+Yes,High School,47,1498,196,Male,25-127
+No,Bachelor's,33,2125,28,Female,35-137
+No,Master's,40,746,298,Male,45-147
+No,High School,34,1216,437,Female,25-127
+Yes,Associate's,45,413,321,Male,55-157
+No,Doctorate,28,2193,171,Female,35-137
+Yes,High School,36,1624,362,Male,25-127
+No,Bachelor's,38,1428,199,Female,45-147
+Yes,High School,39,469,354,Male,25-127
+No,Master's,45,444,424,Female,35-137
+Yes,High School,50,1842,385,Male,25-128
+Yes,Bachelor's,42,1547,28,Female,35-138
+No,Master's,45,578,225,Male,45-148
+No,High School,48,974,432,Female,25-128
+Yes,Associate's,32,358,115,Male,55-158
+No,Doctorate,28,1838,208,Female,35-138
+Yes,High School,27,1855,136,Male,25-128
+No,Bachelor's,47,1080,177,Female,45-148
+Yes,High School,36,1250,238,Male,25-128
+No,Master's,42,1429,353,Female,35-138
+Yes,High School,32,564,267,Male,25-129
+Yes,Bachelor's,35,2467,455,Female,35-139
+No,Master's,48,2401,199,Male,45-149
+No,High School,34,1035,45,Female,25-129
+No,Associate's,41,1072,272,Male,55-159
+No,Doctorate,44,2212,198,Female,35-139
+No,High School,35,381,346,Male,25-129
+No,Bachelor's,37,718,434,Female,45-149
+Yes,High School,47,1093,187,Male,25-129
+No,Master's,44,2036,221,Female,35-139
+No,High School,27,574,38,Male,25-130
+Yes,Bachelor's,39,2268,66,Female,35-140
+No,Master's,31,1481,95,Male,45-150
+No,High School,39,1433,292,Female,25-130
+Yes,Associate's,36,403,122,Male,55-160
+No,Doctorate,45,2184,220,Female,35-140
+No,High School,46,1323,194,Male,25-130
+No,Bachelor's,40,474,290,Female,45-150
+Yes,High School,44,874,196,Male,25-130
+No,Master's,34,1253,375,Female,35-140
+Yes,High School,42,2448,122,Male,25-131
+Yes,Bachelor's,32,1461,411,Female,35-141
+No,Master's,43,2111,88,Male,45-151
+No,High School,25,509,57,Female,25-131
+No,Associate's,44,1911,430,Male,55-161
+No,Doctorate,46,556,407,Female,35-141
+Yes,High School,35,1953,190,Male,25-131
+No,Bachelor's,39,362,81,Female,45-151
+Yes,High School,25,1427,406,Male,25-131
+No,Master's,44,2188,454,Female,35-141
+No,High School,39,1630,132,Male,25-132
+Yes,Bachelor's,40,1632,468,Female,35-142
+No,Master's,27,1721,389,Male,45-152
+No,High School,30,405,172,Female,25-132
+Yes,Associate's,39,2286,500,Male,55-162
+No,Doctorate,27,1776,242,Female,35-142
+No,High School,43,2147,388,Male,25-132
+No,Bachelor's,31,1426,128,Female,45-152
+Yes,High School,42,1329,153,Male,25-132
